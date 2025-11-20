@@ -6,7 +6,7 @@ from datetime import date
 
 # ================== BACKEND BASE URL ================== #
 
-BACKEND_URL = "http://127.0.0.1:8000"   # FastAPI backend
+BACKEND_URL = "https://uparjan-backend.onrender.com"   # FastAPI backend
 
 
 # ================== AUTH SESSION STATE ================== #
