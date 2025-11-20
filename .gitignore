@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+transactions.db
+.env
+.vscode/
+.idea/

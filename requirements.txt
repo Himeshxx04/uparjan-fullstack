@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic[email]      # (optional – useful later)
+streamlit
+pandas
+plotly
+yfinance
+requests
+python-multipart     # in case we later handle forms/files
+
